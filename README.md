@@ -1,16 +1,17 @@
-### Hi there 👋
+# David Dorante Lucas 👋
+**Año nacimiento:** 2004
 
-<!--
-**ddorluc760/ddorluc760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Correo de contacto:** davixu.dor@gmail.com
 
-Here are some ideas to get you started:
+**Nacionalidad:** Española.
+### Experiencia
+La que me ha aportado durante el periodo de prácticas en Soltel Group.
+### Formación
+- **Bachillerato**(2020-2022) I.E.S Almudeyne(Los Palacios y Villafranca, Sevilla).
+- **Grado superior de Desarrollo de Aplicaciones Web(DAW)**(2022-2024) I.E.S Almudeyne(Los Palacios y Villafranca, Sevilla).
+### Otros datos de interés
+- Permiso de conducir tipo B.
+- B1 en francés.
+- Prácticas del grado superios realizadas en la empresa Soltel Group.
+- Conocimientos en tecnologías como SpringBoot, Java, JavaScript, HTML, CSS, GitHub, React, Angular.
 
-- 🔭Actualmente no estoy trabajando, estoy acabando mis estudios.
-- 🌱 He estudiado el módulo superior de desarrollo de aplicaciones web...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
